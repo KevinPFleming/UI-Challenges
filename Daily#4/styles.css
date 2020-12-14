@@ -1,0 +1,12 @@
+.jumbotron{
+    width: 100%;
+    height: 10rem;
+}
+
+img {
+     max-width: 100%; height: auto; }
+
+.calculator__keys { 
+        display: grid; 
+        /* other necessary CSS */ 
+      }     
