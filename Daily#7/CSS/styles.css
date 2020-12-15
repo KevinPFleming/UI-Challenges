@@ -2,9 +2,8 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
-
-
 }
+
 
 h1 {
     font-family: 'Langar', cursive;
@@ -16,7 +15,7 @@ h1 {
 label {
     font-family: 'Russo One', sans-serif;
     font-size: 2rem;
-    color: blue;
+    color: white;
     font-weight: bolder;
 }
 
